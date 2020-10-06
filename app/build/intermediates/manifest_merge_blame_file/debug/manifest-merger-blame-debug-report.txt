@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.tiltspot"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:6:5-20:19
+12        android:allowBackup="true"
+12-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:7:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:8:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:9:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:10:9-54
+17        android:supportsRtl="true"
+17-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:11:9-35
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:12:9-40
+19        <activity android:name="com.example.android.tiltspot.MainActivity" >
+19-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:13:9-19:20
+19-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:13:19-75
+20            <intent-filter>
+20-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:14:13-18:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:15:17-68
+21-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:15:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:17:17-76
+23-->C:\Users\Verbalni ratnik\AndroidStudioProjects\TiltSpot_start\app\src\main\AndroidManifest.xml:17:27-74
+24            </intent-filter>
+25        </activity>
+26
+27        <meta-data
+27-->[com.android.support:appcompat-v7:26.1.0] C:\Users\Verbalni ratnik\.gradle\caches\transforms-2\files-2.1\3c115bd9f6556a7430ab54a2645aa55d\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+28            android:name="android.support.VERSION"
+28-->[com.android.support:appcompat-v7:26.1.0] C:\Users\Verbalni ratnik\.gradle\caches\transforms-2\files-2.1\3c115bd9f6556a7430ab54a2645aa55d\appcompat-v7-26.1.0\AndroidManifest.xml:27:13-51
+29            android:value="26.1.0" />
+29-->[com.android.support:appcompat-v7:26.1.0] C:\Users\Verbalni ratnik\.gradle\caches\transforms-2\files-2.1\3c115bd9f6556a7430ab54a2645aa55d\appcompat-v7-26.1.0\AndroidManifest.xml:28:13-35
+30        <meta-data
+30-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Verbalni ratnik\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+31            android:name="android.arch.lifecycle.VERSION"
+31-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Verbalni ratnik\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:26:13-58
+32            android:value="27.0.0-SNAPSHOT" />
+32-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Verbalni ratnik\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:27:13-44
+33    </application>
+34
+35</manifest>
